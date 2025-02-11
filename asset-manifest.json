@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8afe223.css",
-    "main.js": "/static/js/main.7fc84b40.js",
-    "index.html": "/index.html",
-    "main.a8afe223.css.map": "/static/css/main.a8afe223.css.map",
-    "main.7fc84b40.js.map": "/static/js/main.7fc84b40.js.map"
+    "main.css": "/chai-chowk/static/css/main.a8afe223.css",
+    "main.js": "/chai-chowk/static/js/main.07b4dd47.js",
+    "index.html": "/chai-chowk/index.html",
+    "main.a8afe223.css.map": "/chai-chowk/static/css/main.a8afe223.css.map",
+    "main.07b4dd47.js.map": "/chai-chowk/static/js/main.07b4dd47.js.map"
   },
   "entrypoints": [
     "static/css/main.a8afe223.css",
-    "static/js/main.7fc84b40.js"
+    "static/js/main.07b4dd47.js"
   ]
 }
