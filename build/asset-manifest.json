@@ -7,7 +7,7 @@
     "main.07b4dd47.js.map": "/chai-chowk/static/js/main.07b4dd47.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8afe223.css",
-    "static/js/main.07b4dd47.js"
+    "chai-chowk/static/css/main.a8afe223.css",
+    "chai-chowk/static/js/main.07b4dd47.js"
   ]
 }
